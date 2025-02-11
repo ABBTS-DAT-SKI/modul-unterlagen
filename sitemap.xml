@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://abbts-dat-ski.github.io/wissensdatenbank/</loc>
+         <lastmod>2025-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://abbts-dat-ski.github.io/wissensdatenbank/data-engineering/drop_duplicates/</loc>
+         <lastmod>2025-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://abbts-dat-ski.github.io/wissensdatenbank/data-engineering/fillna/</loc>
+         <lastmod>2025-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://abbts-dat-ski.github.io/wissensdatenbank/data-engineering/outliers/</loc>
+         <lastmod>2025-02-11</lastmod>
+    </url>
+    <url>
+         <loc>https://abbts-dat-ski.github.io/wissensdatenbank/data-engineering/time_indexes/</loc>
+         <lastmod>2025-02-11</lastmod>
+    </url>
+</urlset>
